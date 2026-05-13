@@ -1,0 +1,9 @@
+Temperature : 20.410000
+Temperature : 24.670000
+Temperature : 23.340000
+Temperature : 25.000000
+Temperature : 21.690001
+Temperature : 27.240000
+Temperature : 24.780001
+Temperature : 23.580000
+Temperature : 29.620001

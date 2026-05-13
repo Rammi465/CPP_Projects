@@ -1,0 +1,11 @@
+This is a test log
+Thread 1logging_message 0
+Thread 2logging_message 0
+Thread 2logging_message 1
+Thread 2logging_message 2
+Thread 1logging_message 1
+Thread 1logging_message 2
+Thread 1logging_message 3
+Thread 2logging_message 3
+Thread 2logging_message 4
+Thread 1logging_message 4
